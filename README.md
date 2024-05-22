@@ -1,3 +1,5 @@
+#This repository is archived and will no longer receive updates.
+
 # Install Kubernetes on Raspberry Pis running Ubuntu 20.04 for your own private cloud container service
 
 Kubernetes is an enterprise-grade container orchestration system designed from the beginning to be cloud-native. It has grown to be the de-facto cloud container platform and expanded as it has embraced new technologies, like container-native virtualizaton and serverless computing. Kubernetes manages containers and more from micro-scale at the edge to massive scale in both public and private cloud environments. It is a perfect choice for a "private cloud at home" project, providing both robust container orchestration and the opportunity to learn about a technology in such demand and so thoroughly integrated into the cloud that its name is practically synonymous with "cloud computing".
